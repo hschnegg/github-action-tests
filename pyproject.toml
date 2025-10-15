@@ -1,0 +1,16 @@
+[project]
+name = "github-action-tests"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "autopep8>=2.3.2",
+    "black>=25.9.0",
+    "flake8>=7.3.0",
+    "importmagic>=0.1.7",
+    "jedi>=0.19.2",
+    "packaging>=25.0",
+    "rope>=1.14.0",
+    "yapf>=0.43.0",
+]
