@@ -10,6 +10,7 @@ dependencies = [
     "flake8>=7.3.0",
     "importmagic>=0.1.7",
     "jedi>=0.19.2",
+    "mcp>=1.17.0",
     "packaging>=25.0",
     "rope>=1.14.0",
     "yapf>=0.43.0",
